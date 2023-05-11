@@ -1,5 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1438802682&count_private=true&show_icons=true&theme=radical)
-- 🔭 I’m currently working on SDUST
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1438802682&count_private=true&show_icons=true&theme=radical)- 🔭 I’m currently working on SDUST
 - 🌱 I’m currently learning Autonomous driving
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
